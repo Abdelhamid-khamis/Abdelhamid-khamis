@@ -93,7 +93,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abdelhamid-khamis/Abdelhamid-khamis/output/snake.svg" alt="Snake animation" />
 <img src="https://github.com/Abdelhamid-khamis/Abdelhamid-khamis/blob/output/github-contribution-grid-snake.gif" />
 
 
