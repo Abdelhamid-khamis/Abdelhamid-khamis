@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A Detail-oriented <b>Software Testing Engineer</b> with a background in Data Analytics. Proficient in <b>Java</b>, <b>Python</b>, <b>SQL</b>, <b>Selenium</b>, <b>JIRA**, <b>Postman</b>, <b>Excel</b> and <b>Power BI</b>. Excellent Manual and API Testing skills. Proven experience with <b>LMSs</b> Testing at ITWorks Education.</p>
+<p align="left">A Detail-oriented <b>Software Testing Engineer</b> with a background in Data Analytics. Proficient in <b>Java</b>, <b>Python</b>, <b>SQL</b>, <b>Selenium</b>, <b>JIRA<b>, <b>Postman</b>, <b>Excel</b> and <b>Power BI</b>. Excellent Manual and API Testing skills. Proven experience with <b>LMSs</b> Testing at ITWorks Education.</p>
 
 ###
 
