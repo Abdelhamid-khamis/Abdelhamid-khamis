@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="350" src="https://i.imgflip.com/8kkzyf.gif"  />
+<img align="right" height="400" width="400" src="https://i.imgflip.com/8kkzyf.gif"  />
 
 ###
 
@@ -97,8 +97,13 @@
 
 ###
 
+<h3 align="center">My GitHub Viewers</h3>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abdelhamid-khamis/count.svg?"  />
 </div>
 
 ###
+
